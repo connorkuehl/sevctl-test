@@ -1,3 +1,7 @@
+# THIS REPOSITORY HAS MOVED
+
+To here: https://github.com/virtee/sevctl-test
+
 ## About
 
 This is a temporary test suite to help exercise `sevctl`'s command line
